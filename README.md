@@ -88,7 +88,6 @@ Go to [http://localhost:8080/ui](http://localhost:8080/ui).
 
 The API is available at `http://localhost:8080`.
 
-<img src="./fern/docs/assets/ui.png" alt="LocalGPT UI" />
 
 The UI is useful for:
 

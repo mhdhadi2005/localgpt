@@ -22,6 +22,7 @@ dependencies = [
     "nest-asyncio>=1.6.0",
     "nltk>=3.10.0,<4",
     "arq>=0.26,<0.27",
+    "celery>=5.4.0",
 ]
 
 [project.scripts]
